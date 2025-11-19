@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 scipy
-statsmodel
+statsmodels
 scikit-learn
+joblib
