@@ -1,7 +1,8 @@
-pandas
-numpy
+pandas>=1.3
+scikit-learn>=1.0
+joblib>=1.0
+numpy>=1.21
 matplotlib
 seaborn
 scipy
-statsmodel
-scikit-learn
+statsmodels
